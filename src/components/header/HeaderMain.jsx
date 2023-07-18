@@ -34,15 +34,7 @@ const Wrapper = styled.div`
 //     background-size: cover;
 //     background-image: url('https://i.namu.wiki/i/8lMDM6LGz9RVqvR2VSNKAzzJViwI-T6iZGpL0-99iPG-lSlbDsFIXvMRetG8Vipfg2GYmYZ9Fx7PDo2VIYA84fxKvcWsUoPIxrWbljdCIw0geltaWDQRzUPAGqsZo18-MYsZcafTv6opPtoPMLsG6g.webp');
 // `;
-// const StyledButton = styled.button`
-// all: 'unset',
-// width: 24,
-// height: 24,
-// overflow: 'hidden',
-// background-position: 'center',
-// background-repeat: 'no-repeat',
-// background-size: 'cover',
-// `;
+
 const Container = styled.div`
     margin-left: auto;
     margin-right: auto;
